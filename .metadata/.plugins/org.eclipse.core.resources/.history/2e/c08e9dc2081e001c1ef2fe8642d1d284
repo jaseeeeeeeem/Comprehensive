@@ -1,0 +1,38 @@
+package Assessment.Hybrid;
+
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.annotations.Test;
+
+import junit.framework.Assert;
+import pageobject.HomePage;
+import pageobject.StoresPage;
+import resources.base;
+
+public class ValidatingNumOfStores extends base {
+
+	
+	@Test
+	public void NumOfStores()
+	{
+		driver.get(prop.getProperty("url"));
+		log.info("Page Entered");
+		driver.manage().window().maximize();
+		HomePage hp= new HomePage(driver);
+		WebDriverWait wd= new WebDriverWait(driver,10);
+		wd.until(ExpectedConditions.visibilityOf(hp.returnClosePopup()));
+		hp.returnClosePopup().click();
+		Thread.sleep(2000L);
+		hp.returnStores().click();
+		StoresPage sp =new StoresPage(driver);
+		int num=sp.returnStores().size();
+		if(num==10)
+		{
+			Assert.assertTrue(true);
+		}
+		else {
+			Assert.assertTrue(false);
+		}
+	}
+	
+}

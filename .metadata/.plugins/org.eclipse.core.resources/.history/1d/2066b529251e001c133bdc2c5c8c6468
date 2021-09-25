@@ -1,0 +1,33 @@
+package stepDefinitions;
+
+import cucumber.api.PendingException;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+import cucumber.api.java.en.Then;
+import cucumber.api.junit.Cucumber;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.junit.runner.RunWith;
+
+
+@RunWith(Cucumber.class)
+public class stepDefinition {
+	private Logger log=LogManager.getLogger(stepDefinition.class.getName());
+
+    @Given("^user is in the homepage$")
+    public void user_is_in_the_homepage() throws Throwable {
+        
+    }
+
+    @When("^user moves to kids section and clicks Loft Beds$")
+    public void user_moves_to_kids_section_and_clicks_loft_beds() throws Throwable {
+        throw new PendingException();
+    }
+
+    @Then("^the page displayed should have the heading Loft Beds$")
+    public void the_page_displayed_should_have_the_heading_loft_beds() throws Throwable {
+        throw new PendingException();
+    }
+
+}

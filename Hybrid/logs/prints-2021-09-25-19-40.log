@@ -1,0 +1,6 @@
+19:39:59.144 [main] INFO  Assessment.Hybrid.Validatingnumoftypesstorage -Page Entered
+19:40:19.484 [main] INFO  Assessment.Hybrid.Validatingnumoftypesstorage -driver is closed.
+19:40:21.492 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -initialised driver
+19:40:23.225 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -Page Entered
+19:40:48.706 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -driver is closed.
+19:40:50.533 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -initialised driver

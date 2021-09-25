@@ -1,0 +1,6 @@
+20:08:33.121 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -Page Entered
+20:08:52.511 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -driver is closed.
+20:08:55.086 [main] INFO  Assessment.Hybrid.ValidatingNumOfOccasions -initialised driver
+20:08:56.946 [main] INFO  Assessment.Hybrid.ValidatingNumOfOccasions -Page Entered
+20:09:13.600 [main] INFO  Assessment.Hybrid.ValidatingNumOfOccasions -driver is closed.
+20:09:15.606 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -initialised driver

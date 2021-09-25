@@ -1,0 +1,28 @@
+package Assessment.Hybrid;
+
+import java.io.IOException;
+import java.util.logging.Logger;
+
+import org.testng.annotations.Test;
+
+import pageobject.HomePage;
+import resources.base;
+
+public class Test1 extends base {
+	
+	private Logger log=Logger.getLogger(Test1.class.getName());
+
+	@Test
+	public void testing() throws IOException
+	{
+		initialiseDriver();
+		log.info("driver initialised");
+		driver.get(prop.getProperty("url"));
+		log.info("navigated to the url");
+		HomePage hp = new HomePage(driver);
+		hp.returnSearchBar().sendKeys("iphone");
+		log.info("iphone");
+	}
+
+
+}

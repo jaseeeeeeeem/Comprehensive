@@ -1,0 +1,22 @@
+package Assessment.Hybrid;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import pageobject.HomePage;
+import resources.base;
+
+public class Test1 extends base {
+
+	@Test
+	public void testing() throws IOException
+	{
+		initialiseDriver();
+		driver.get(prop.getProperty("url"));
+		HomePage hp = new HomePage(driver);
+		
+	}
+
+
+}

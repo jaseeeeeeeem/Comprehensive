@@ -1,0 +1,7 @@
+20:07:58.438 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -initialised driver
+20:08:00.385 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -Page Entered
+20:08:17.879 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -driver is closed.
+20:08:19.867 [main] INFO  Assessment.Hybrid.ValidatingTableResults -initialised driver
+20:08:21.546 [main] INFO  Assessment.Hybrid.ValidatingTableResults -Page Entered
+20:08:29.608 [main] INFO  Assessment.Hybrid.ValidatingTableResults -driver is closed.
+20:08:31.471 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -initialised driver

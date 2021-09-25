@@ -1,0 +1,36 @@
+package Assessment.Hybrid;
+
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageobject.HomePage;
+import pageobject.TrackPage;
+import resources.base;
+
+public class TrackingInvalidOrder extends base {
+
+	
+	@Test
+	public void TrackingInvalidOrders()
+	{
+		driver.get(prop.getProperty("url"));
+		log.info("Page Entered");
+		driver.manage().window().maximize();
+		HomePage hp= new HomePage(driver);
+		WebDriverWait wd= new WebDriverWait(driver,10);
+		wd.until(ExpectedConditions.visibilityOf(hp.returnClosePopup()));
+		hp.returnClosePopup().click();
+		Thread.sleep(2000L);
+		hp.returnTrack().click();
+		TrackPage tp = new TrackPage(driver);
+		tp.returnOrderNum().sendKeys("321788213");
+		tp.returnPhone().sendKeys("7991234566");
+		tp.returnSubmit().click();
+		Boolean res= tp.returnError().isDisplayed();
+		Assert.assertTrue(res);
+		
+	}
+	
+}

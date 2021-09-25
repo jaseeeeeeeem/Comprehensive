@@ -1,0 +1,31 @@
+package Assessment.Hybrid;
+
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import pageobject.HomePage;
+import pageobject.StoragePage;
+import resources.base;
+
+public class ValidatingTVunitsinstorage extends base {
+
+	@Test
+	public void validatingtvunitsinstorage()
+	{
+		driver.get(prop.getProperty("url"));
+		log.info("Page Entered");
+		driver.manage().window().maximize();
+		HomePage hp= new HomePage(driver);
+		WebDriverWait wd= new WebDriverWait(driver,10);
+		wd.until(ExpectedConditions.visibilityOf(hp.returnClosePopup()));
+		hp.returnClosePopup().click();
+		Thread.sleep(2000L);
+		hp.returnStorage().click();
+		StoragePage sp= new StoragePage(driver);
+		Boolean res=sp.returnFirstHeading().getText().contains("TV Units");
+		Assert.assertTrue(res);
+	}
+	
+}

@@ -1,0 +1,6 @@
+19:45:58.325 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -driver is closed.
+19:50:30.791 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -initialised driver
+19:50:32.267 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -Page Entered
+19:50:49.755 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -driver is closed.
+19:51:35.865 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -initialised driver
+19:51:37.685 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -Page Entered

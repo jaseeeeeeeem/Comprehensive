@@ -1,0 +1,6 @@
+19:58:42.047 [main] INFO  Assessment.Hybrid.TrackingInvalidOrder -driver is closed.
+19:58:44.186 [main] INFO  Assessment.Hybrid.Validatingnumoftypesstorage -initialised driver
+19:58:45.667 [main] INFO  Assessment.Hybrid.Validatingnumoftypesstorage -Page Entered
+19:59:00.678 [main] INFO  Assessment.Hybrid.Validatingnumoftypesstorage -driver is closed.
+19:59:02.702 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -initialised driver
+19:59:04.138 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -Page Entered

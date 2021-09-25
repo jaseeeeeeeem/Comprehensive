@@ -1,0 +1,4 @@
+@Then("^the first type of storage should be \"([^\"]*)\"$")
+    public void the_first_type_of_storage_should_be_something(String strArg1) throws Throwable {
+        throw new PendingException();
+    }

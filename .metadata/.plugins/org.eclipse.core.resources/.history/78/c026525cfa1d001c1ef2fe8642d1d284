@@ -1,0 +1,19 @@
+package pageobject;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+
+public class HelpPage {
+
+	public WebDriver driver;
+	public HelpPage(WebDriver driver)
+	{
+		this.driver=driver;
+		PageFactory.initElements(driver, this);
+	}
+	
+	By questions= By.xpath("//div[@class='question row']");
+	
+	By topics= By.xpath("//li[@class='topic']");
+}

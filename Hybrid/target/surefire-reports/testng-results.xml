@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-25T14:37:04Z" name="Suite" finished-at="2021-09-25T14:40:52Z" duration-ms="228249">
+    <groups>
+    </groups>
+    <test started-at="2021-09-25T14:37:04Z" name="Test1" finished-at="2021-09-25T14:37:29Z" duration-ms="24915">
+      <class name="Assessment.Hybrid.ValidatingLoftBedHeading">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingLoftBedHeading@30b34287]" started-at="2021-09-25T14:37:04Z" name="btest" finished-at="2021-09-25T14:37:07Z" duration-ms="2671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="validatingLoftBedHeading()[pri:0, instance:Assessment.Hybrid.ValidatingLoftBedHeading@30b34287]" started-at="2021-09-25T14:37:07Z" name="validatingLoftBedHeading" finished-at="2021-09-25T14:37:24Z" duration-ms="17668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingLoftBedHeading -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingLoftBedHeading@30b34287]" started-at="2021-09-25T14:37:25Z" name="atest" finished-at="2021-09-25T14:37:29Z" duration-ms="4310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.ValidatingLoftBedHeading -->
+    </test> <!-- Test1 -->
+    <test started-at="2021-09-25T14:37:29Z" name="Test2" finished-at="2021-09-25T14:37:56Z" duration-ms="26993">
+      <class name="Assessment.Hybrid.ValidatingNumOfStores">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfStores@42a9a63e]" started-at="2021-09-25T14:37:29Z" name="btest" finished-at="2021-09-25T14:37:31Z" duration-ms="1910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="NumOfStores()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfStores@42a9a63e]" started-at="2021-09-25T14:37:31Z" name="NumOfStores" finished-at="2021-09-25T14:37:51Z" duration-ms="20359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumOfStores -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfStores@42a9a63e]" started-at="2021-09-25T14:37:52Z" name="atest" finished-at="2021-09-25T14:37:56Z" duration-ms="4351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.ValidatingNumOfStores -->
+    </test> <!-- Test2 -->
+    <test started-at="2021-09-25T14:37:56Z" name="Test3" finished-at="2021-09-25T14:38:17Z" duration-ms="21375">
+      <class name="Assessment.Hybrid.NumOfQuestionHelp">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.NumOfQuestionHelp@408b35bf]" started-at="2021-09-25T14:37:56Z" name="btest" finished-at="2021-09-25T14:37:58Z" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="Numofquesvalidation()[pri:0, instance:Assessment.Hybrid.NumOfQuestionHelp@408b35bf]" started-at="2021-09-25T14:37:58Z" name="Numofquesvalidation" finished-at="2021-09-25T14:38:13Z" duration-ms="14802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Numofquesvalidation -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.NumOfQuestionHelp@408b35bf]" started-at="2021-09-25T14:38:13Z" name="atest" finished-at="2021-09-25T14:38:17Z" duration-ms="4456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.NumOfQuestionHelp -->
+    </test> <!-- Test3 -->
+    <test started-at="2021-09-25T14:38:17Z" name="Test4" finished-at="2021-09-25T14:38:29Z" duration-ms="11724">
+      <class name="Assessment.Hybrid.ValidatingTableResults">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@14bb2297]" started-at="2021-09-25T14:38:17Z" name="btest" finished-at="2021-09-25T14:38:19Z" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="validatingtablesearchresults()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@14bb2297]" started-at="2021-09-25T14:38:19Z" name="validatingtablesearchresults" finished-at="2021-09-25T14:38:24Z" duration-ms="5065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingtablesearchresults -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@14bb2297]" started-at="2021-09-25T14:38:25Z" name="atest" finished-at="2021-09-25T14:38:29Z" duration-ms="4298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.ValidatingTableResults -->
+    </test> <!-- Test4 -->
+    <test started-at="2021-09-25T14:38:29Z" name="Test5" finished-at="2021-09-25T14:38:52Z" duration-ms="22894">
+      <class name="Assessment.Hybrid.ValidatingTVunitsinstorage">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingTVunitsinstorage@30c31dd7]" started-at="2021-09-25T14:38:29Z" name="btest" finished-at="2021-09-25T14:38:31Z" duration-ms="1855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="validatingtvunitsinstorage()[pri:0, instance:Assessment.Hybrid.ValidatingTVunitsinstorage@30c31dd7]" started-at="2021-09-25T14:38:31Z" name="validatingtvunitsinstorage" finished-at="2021-09-25T14:38:47Z" duration-ms="16114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingtvunitsinstorage -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingTVunitsinstorage@30c31dd7]" started-at="2021-09-25T14:38:48Z" name="atest" finished-at="2021-09-25T14:38:52Z" duration-ms="4437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.ValidatingTVunitsinstorage -->
+    </test> <!-- Test5 -->
+    <test started-at="2021-09-25T14:38:52Z" name="Test6" finished-at="2021-09-25T14:39:13Z" duration-ms="21082">
+      <class name="Assessment.Hybrid.ValidatingNumOfOccasions">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfOccasions@615f972]" started-at="2021-09-25T14:38:52Z" name="btest" finished-at="2021-09-25T14:38:55Z" duration-ms="2569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="NumOfOccasions()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfOccasions@615f972]" started-at="2021-09-25T14:38:55Z" name="NumOfOccasions" finished-at="2021-09-25T14:39:12Z" duration-ms="17568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumOfOccasions -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingNumOfOccasions@615f972]" started-at="2021-09-25T14:39:13Z" name="atest" finished-at="2021-09-25T14:39:13Z" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.ValidatingNumOfOccasions -->
+    </test> <!-- Test6 -->
+    <test started-at="2021-09-25T14:39:13Z" name="Test7" finished-at="2021-09-25T14:39:38Z" duration-ms="25283">
+      <class name="Assessment.Hybrid.TrackingInvalidOrder">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.TrackingInvalidOrder@66238be2]" started-at="2021-09-25T14:39:13Z" name="btest" finished-at="2021-09-25T14:39:15Z" duration-ms="1999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="TrackingInvalidOrders()[pri:0, instance:Assessment.Hybrid.TrackingInvalidOrder@66238be2]" started-at="2021-09-25T14:39:15Z" name="TrackingInvalidOrders" finished-at="2021-09-25T14:39:34Z" duration-ms="18849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrackingInvalidOrders -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.TrackingInvalidOrder@66238be2]" started-at="2021-09-25T14:39:34Z" name="atest" finished-at="2021-09-25T14:39:38Z" duration-ms="4268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.TrackingInvalidOrder -->
+    </test> <!-- Test7 -->
+    <test started-at="2021-09-25T14:39:38Z" name="Test8" finished-at="2021-09-25T14:40:01Z" duration-ms="22835">
+      <class name="Assessment.Hybrid.Validatingnumoftypesstorage">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.Validatingnumoftypesstorage@3aacf32a]" started-at="2021-09-25T14:39:38Z" name="btest" finished-at="2021-09-25T14:39:40Z" duration-ms="1883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="ValidatingNumOfTypesStorage()[pri:0, instance:Assessment.Hybrid.Validatingnumoftypesstorage@3aacf32a]" started-at="2021-09-25T14:39:40Z" name="ValidatingNumOfTypesStorage" finished-at="2021-09-25T14:39:56Z" duration-ms="15983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingNumOfTypesStorage -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.Validatingnumoftypesstorage@3aacf32a]" started-at="2021-09-25T14:39:57Z" name="atest" finished-at="2021-09-25T14:40:01Z" duration-ms="4485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.Validatingnumoftypesstorage -->
+    </test> <!-- Test8 -->
+    <test started-at="2021-09-25T14:40:01Z" name="Test9" finished-at="2021-09-25T14:40:01Z" duration-ms="1">
+    </test> <!-- Test9 -->
+    <test started-at="2021-09-25T14:40:01Z" name="Test10" finished-at="2021-09-25T14:40:31Z" duration-ms="29923">
+      <class name="Assessment.Hybrid.LoginInvalidCredentials">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@6b04acb2]" started-at="2021-09-25T14:40:01Z" name="btest" finished-at="2021-09-25T14:40:03Z" duration-ms="1682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="LoginWithInvalidCredential()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@6b04acb2]" started-at="2021-09-25T14:40:03Z" name="LoginWithInvalidCredential" finished-at="2021-09-25T14:40:30Z" duration-ms="27058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidCredential -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@6b04acb2]" started-at="2021-09-25T14:40:31Z" name="atest" finished-at="2021-09-25T14:40:31Z" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.LoginInvalidCredentials -->
+    </test> <!-- Test10 -->
+    <test started-at="2021-09-25T14:40:31Z" name="Test11" finished-at="2021-09-25T14:40:52Z" duration-ms="21079">
+      <class name="Assessment.Hybrid.NumOfTopicsHelp">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.NumOfTopicsHelp@6b9c69a9]" started-at="2021-09-25T14:40:31Z" name="btest" finished-at="2021-09-25T14:40:33Z" duration-ms="1882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method signature="NumOfTopicsValidationHelp()[pri:0, instance:Assessment.Hybrid.NumOfTopicsHelp@6b9c69a9]" started-at="2021-09-25T14:40:33Z" name="NumOfTopicsValidationHelp" finished-at="2021-09-25T14:40:48Z" duration-ms="14602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NumOfTopicsValidationHelp -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.NumOfTopicsHelp@6b9c69a9]" started-at="2021-09-25T14:40:48Z" name="atest" finished-at="2021-09-25T14:40:52Z" duration-ms="4242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- Assessment.Hybrid.NumOfTopicsHelp -->
+    </test> <!-- Test11 -->
+  </suite> <!-- Suite -->
+</testng-results>

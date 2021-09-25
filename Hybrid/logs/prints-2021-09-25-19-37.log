@@ -1,0 +1,6 @@
+18:42:40.804 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -initialised driver
+18:42:42.632 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -Page Entered
+18:43:11.578 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -driver is closed.
+19:37:11.058 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -initialised driver
+19:37:12.899 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -Page Entered
+19:37:29.602 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -driver is closed.
