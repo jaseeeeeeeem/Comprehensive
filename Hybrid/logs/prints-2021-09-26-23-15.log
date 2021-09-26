@@ -1,0 +1,7 @@
+23:14:56.561 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -initialised driver
+23:14:58.555 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -Page Entered
+23:15:23.096 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -driver is closed.
+23:15:25.818 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -initialised driver
+23:15:27.759 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -Page Entered
+23:15:43.475 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -driver is closed.
+23:15:45.678 [main] INFO  Assessment.Hybrid.ValidatingTableResults -initialised driver

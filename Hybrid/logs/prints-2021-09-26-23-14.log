@@ -1,0 +1,6 @@
+23:00:08.177 [main] INFO  Assessment.Hybrid.ValidatingTableResults -initialised driver
+23:00:12.249 [main] INFO  Assessment.Hybrid.ValidatingTableResults -Page Entered
+23:00:23.954 [main] INFO  Assessment.Hybrid.ValidatingTableResults -driver is closed.
+23:14:28.997 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -initialised driver
+23:14:30.952 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -Page Entered
+23:14:54.097 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -driver is closed.

@@ -1,0 +1,6 @@
+23:15:47.780 [main] INFO  Assessment.Hybrid.ValidatingTableResults -Page Entered
+23:15:58.953 [main] INFO  Assessment.Hybrid.ValidatingTableResults -driver is closed.
+23:16:01.226 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -initialised driver
+23:16:02.917 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -Page Entered
+23:16:24.853 [main] INFO  Assessment.Hybrid.ValidatingTVunitsinstorage -driver is closed.
+23:16:26.922 [main] INFO  Assessment.Hybrid.ValidatingNumOfOccasions -initialised driver

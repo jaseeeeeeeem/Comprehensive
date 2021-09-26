@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-25T20:25:07 IST" name="Default suite" finished-at="2021-09-25T20:25:49 IST" duration-ms="42259">
+  <suite started-at="2021-09-26T23:00:04 IST" name="Default suite" finished-at="2021-09-26T23:00:23 IST" duration-ms="19740">
     <groups>
     </groups>
-    <test started-at="2021-09-25T20:25:07 IST" name="Default test" finished-at="2021-09-25T20:25:49 IST" duration-ms="42259">
-      <class name="Assessment.Hybrid.LoginInvalidCredentials">
-        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@15eebbff]" started-at="2021-09-25T20:25:07 IST" name="btest" finished-at="2021-09-25T20:25:10 IST" duration-ms="3662" status="PASS">
+    <test started-at="2021-09-26T23:00:04 IST" name="Default test" finished-at="2021-09-26T23:00:23 IST" duration-ms="19740">
+      <class name="Assessment.Hybrid.ValidatingTableResults">
+        <test-method is-config="true" signature="btest()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@15eebbff]" started-at="2021-09-26T23:00:04 IST" name="btest" finished-at="2021-09-26T23:00:08 IST" duration-ms="3968" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- btest -->
-        <test-method signature="LoginWithInvalidCredential()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@15eebbff]" started-at="2021-09-25T20:25:10 IST" name="LoginWithInvalidCredential" finished-at="2021-09-25T20:25:43 IST" duration-ms="33195" status="PASS">
+        <test-method signature="validatingtablesearchresults()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@15eebbff]" started-at="2021-09-26T23:00:08 IST" name="validatingtablesearchresults" finished-at="2021-09-26T23:00:19 IST" duration-ms="11211" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginWithInvalidCredential -->
-        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.LoginInvalidCredentials@15eebbff]" started-at="2021-09-25T20:25:43 IST" name="atest" finished-at="2021-09-25T20:25:49 IST" duration-ms="5346" status="PASS">
+        </test-method> <!-- validatingtablesearchresults -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Assessment.Hybrid.ValidatingTableResults@15eebbff]" started-at="2021-09-26T23:00:19 IST" name="atest" finished-at="2021-09-26T23:00:23 IST" duration-ms="4482" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- atest -->
-      </class> <!-- Assessment.Hybrid.LoginInvalidCredentials -->
+      </class> <!-- Assessment.Hybrid.ValidatingTableResults -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -17,7 +17,7 @@ public class ExcelDriven {
 	
 	public void initialiseWorkbook(String sname) throws IOException
 	{
-		FileInputStream fis=new FileInputStream("");
+		FileInputStream fis=new FileInputStream(".\\ExcelFiles\\exceldata.xlsx");
 		workbook=new XSSFWorkbook(fis);
 		for(int i=0;i<workbook.getNumberOfSheets();i++)
 		{

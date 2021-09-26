@@ -15,6 +15,7 @@ import pageobject.StoragePage;
 import pageobject.StoresPage;
 import pageobject.TablePage;
 import pageobject.TrackPage;
+import resources.ExcelDriven;
 import resources.base;
 
 import java.util.List;
@@ -253,8 +254,12 @@ public class stepDefinition extends base {
 		{
 			tp.returnPopup().click();
 		}
+		ExcelDriven ed= new ExcelDriven();
+		ed.initialiseWorkbook("Sheet1");
+		List<String> l=ed.getData("tosearch");
+		
 		String res= tp.returnProduct().getText();
-		if(res.contains(strArg1))
+		if(res.contains(l.get(1)))
 		{
 			Assert.assertTrue(true);
 		}

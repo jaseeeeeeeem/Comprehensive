@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ExcelFiles&apos; to &apos;BDD&apos;&#x0D;&#x0A;- Original project: &apos;Hybrid&apos;&#x0D;&#x0A;- Destination element: &apos;BDD&apos;&#x0D;&#x0A;- Original element: &apos;ExcelFiles&apos;" description="Copy folder" destination="=BDD" element1="ExcelFiles" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1632677306398" units="0" version="1.0"/>
+</session>

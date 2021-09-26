@@ -1,0 +1,6 @@
+01:20:25.779 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -initialised driver
+01:20:28.823 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -Page Entered
+01:20:44.892 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -driver is closed.
+01:21:34.075 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -initialised driver
+01:21:36.941 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -Page Entered
+01:22:13.184 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -driver is closed.
