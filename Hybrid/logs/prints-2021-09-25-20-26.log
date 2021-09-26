@@ -1,0 +1,7 @@
+20:23:35.744 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -driver is closed.
+20:23:38.032 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -initialised driver
+20:23:39.776 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -Page Entered
+20:23:55.787 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -driver is closed.
+20:25:10.666 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -initialised driver
+20:25:13.993 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -Page Entered
+20:25:49.260 [main] INFO  Assessment.Hybrid.LoginInvalidCredentials -driver is closed.

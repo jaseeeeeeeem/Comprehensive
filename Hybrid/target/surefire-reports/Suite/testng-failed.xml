@@ -3,6 +3,7 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <listeners>
     <listener class-name="Assessment.Hybrid.Listener"/>
+    <listener class-name="resources.ExtentReporterNG"/>
   </listeners>
   <test thread-count="5" name="Test10(failed)" verbose="0">
     <classes>

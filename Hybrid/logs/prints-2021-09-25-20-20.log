@@ -1,0 +1,6 @@
+20:19:40.413 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -driver is closed.
+20:19:47.906 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -initialised driver
+20:19:49.922 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -Page Entered
+20:20:15.439 [main] INFO  Assessment.Hybrid.ValidatingNumOfStores -driver is closed.
+20:20:20.232 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -initialised driver
+20:20:21.824 [main] INFO  Assessment.Hybrid.NumOfQuestionHelp -Page Entered
