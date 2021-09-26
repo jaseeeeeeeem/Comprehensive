@@ -3,3 +3,5 @@
 20:30:46.086 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -initialised driver
 20:30:49.547 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -Page Entered
 20:31:19.630 [main] INFO  Assessment.Hybrid.NumOfTopicsHelp -driver is closed.
+01:02:19.137 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -initialised driver
+01:02:22.616 [main] INFO  Assessment.Hybrid.ValidatingLoftBedHeading -Page Entered
